@@ -1,14 +1,13 @@
-package com.first_full.baby;
+package com.first_full.bloodyTrail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class BabyApplication {
+public class BloodyTrailApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BabyApplication.class, args);
+		SpringApplication.run(BloodyTrailApplication.class, args);
 	}
 
 }
